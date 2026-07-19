@@ -20,5 +20,4 @@ Example:
 Speed = 50 km/h
 Speed = 13.89 m/s
 
-## 📷 Screenshot
-(Add your program screenshot here)
+
